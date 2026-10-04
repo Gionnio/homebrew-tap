@@ -13,6 +13,7 @@ brew tap gionnio/tap
 | App | Install | Description |
 |-----|---------|-------------|
 | [Renamy](https://github.com/Gionnio/renamy) | `brew install --cask gionnio/tap/renamy` | Rename and organize your personal video library using TMDB metadata |
+| [Tazzina](https://github.com/Gionnio/tazzina) | `brew install --cask gionnio/tap/tazzina` | Keep your Mac awake from the menu bar, with triggers and sounds |
 
 ## Update
 
