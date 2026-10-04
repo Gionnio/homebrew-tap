@@ -14,6 +14,7 @@ brew tap gionnio/tap
 |-----|---------|-------------|
 | [Renamy](https://github.com/Gionnio/renamy) | `brew install --cask gionnio/tap/renamy` | Rename and organize your personal video library using TMDB metadata |
 | [Tazzina](https://github.com/Gionnio/tazzina) | `brew install --cask gionnio/tap/tazzina` | Keep your Mac awake from the menu bar, with triggers and sounds |
+| [Encody](https://github.com/Gionnio/encody) | `brew install --cask gionnio/tap/encody` | Batch video encoder that keeps HDR10, HDR10+ and Dolby Vision |
 | [PS2 Manager](https://github.com/Gionnio/ps2manager) | `brew install --cask gionnio/tap/ps2-manager` | Manage backups of your own PS2/PS1 games on an Open PS2 Loader drive |
 
 ## Update
