@@ -31,4 +31,4 @@ brew uninstall --cask <app>
 
 Add `--zap` to also remove the app settings.
 
-The apps are not signed with an Apple Developer ID: if macOS blocks the first launch, right-click the app and choose Open, or allow it in System Settings → Privacy & Security.
+The apps are not signed with an Apple Developer ID: if macOS blocks the first launch, open System Settings → Privacy & Security and click **Open Anyway** (right-click → Open no longer works on macOS 15 or later).
