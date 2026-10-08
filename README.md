@@ -17,6 +17,7 @@ brew tap gionnio/tap
 | [Encody](https://github.com/Gionnio/encody) | `brew install --cask gionnio/tap/encody` | Batch video encoder that keeps HDR10, HDR10+ and Dolby Vision |
 | [PS2 Manager](https://github.com/Gionnio/ps2manager) | `brew install --cask gionnio/tap/ps2-manager` | Manage backups of your own PS2/PS1 games on an Open PS2 Loader drive |
 | [Tilefont](https://github.com/Gionnio/tilefont) | `brew install --cask gionnio/tap/tilefont` | Turn TrueType and OpenType fonts into GB Studio font images |
+| [Upgrady](https://github.com/Gionnio/upgrady) | `brew install --cask gionnio/tap/upgrady` | Keep Sparkle, Homebrew and App Store apps up to date from the menu bar |
 
 ## Update
 
