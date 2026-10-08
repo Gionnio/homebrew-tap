@@ -1,6 +1,6 @@
 cask "tazzina" do
-  version "1.0.0"
-  sha256 "31a0c34e83fc108b4114efe63b4ac01912443e4b1ce44680aa0f12a02995acd1"
+  version "1.0.1"
+  sha256 "678a4df022226d4a1adb584a3b5440dfec02c07b97b60565b5683a49638c0be3"
 
   url "https://github.com/Gionnio/tazzina/releases/download/v#{version}/Tazzina_v#{version}.zip"
   name "Tazzina"
