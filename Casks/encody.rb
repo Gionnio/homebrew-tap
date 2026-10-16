@@ -29,7 +29,7 @@ cask "encody" do
   caveats <<~EOS
     Encody needs FFmpeg 7.1 or later (see the README for the recommended build).
     Encody is not signed with an Apple Developer ID.
-    If macOS blocks the first launch, allow it in
-    System Settings → Privacy & Security → Open Anyway.
+    If macOS blocks the first launch, open System Settings → Privacy & Security
+    and click Open Anyway (right-click → Open no longer works on macOS 15 or later).
   EOS
 end
