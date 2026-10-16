@@ -1,6 +1,6 @@
 cask "upgrady" do
-  version "2.0.1"
-  sha256 "6f3f1c7e9b1a86f2aa7435359ee7b3df5475082f2108d831c3117bf001e5349b"
+  version "2.0.2"
+  sha256 "6caca94077ac8f97d6b48d02e080ab0bf95cecc1c4528d3434b8b1893bbfdccd"
 
   url "https://github.com/Gionnio/upgrady/releases/download/v#{version}/Upgrady_v#{version}.zip"
   name "Upgrady"
