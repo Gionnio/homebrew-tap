@@ -1,6 +1,6 @@
 cask "renamy" do
-  version "2.1.1"
-  sha256 "477d02c482a8ecdc57942c3264361b3051e7140441cb705c313e6d34e4777dad"
+  version "3.0.0"
+  sha256 "9fb2f3cb263322b1155311398620172e72f8e61efc1221ff27fface914844a07"
 
   url "https://github.com/Gionnio/renamy/releases/download/v#{version}/Renamy_v#{version}.zip"
   name "Renamy"
