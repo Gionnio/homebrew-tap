@@ -1,6 +1,6 @@
 cask "encody" do
-  version "1.2.0"
-  sha256 "ff5f92a3a696c158ef40861aa6d08bb749a1f136fa4783d95f6b998d3a3e310e"
+  version "1.2.1"
+  sha256 "f3f44d9ec530a3de401577e414b3ef531bd1ddde7fa4edec9f9315205d5cb2c8"
 
   url "https://github.com/Gionnio/encody/releases/download/v#{version}/Encody_v#{version}.zip"
   name "Encody"
