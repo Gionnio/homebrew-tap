@@ -1,6 +1,6 @@
 cask "tilefont" do
-  version "1.0.1"
-  sha256 "d0f3dd358930b4dbd2595d50864ed67885f7643c6d8f6322b1c3ad091061d5e9"
+  version "1.0.2"
+  sha256 "d6e230947e7f9dee11203173ad21f284194d40422b9dad699fb727f5e6556dd7"
 
   url "https://github.com/Gionnio/tilefont/releases/download/v#{version}/Tilefont_v#{version}.zip"
   name "Tilefont"

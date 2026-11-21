@@ -1,6 +1,6 @@
 cask "ps2-manager" do
-  version "2.1.0"
-  sha256 "2709cc4ee40b9ab83c4c01ca4dc107953496c79561fdb316c67bbffcad961105"
+  version "2.1.1"
+  sha256 "0185025a5401725e975c34efc523fd3edd1613ea44df5809d3f780f07d465d78"
 
   url "https://github.com/Gionnio/ps2manager/releases/download/v#{version}/PS2Manager_v#{version}.zip"
   name "PS2 Manager"
