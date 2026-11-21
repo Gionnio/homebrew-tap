@@ -6,7 +6,10 @@ Homebrew tap for my personal macOS apps. More at [gionnio.github.io](https://gio
 
 ```bash
 brew tap gionnio/tap
+brew trust gionnio/tap
 ```
+
+Recent Homebrew versions load casks from taps outside Homebrew only after `brew trust`.
 
 ## Apps
 
