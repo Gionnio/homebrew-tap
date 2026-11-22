@@ -1,6 +1,6 @@
 cask "retroteca" do
-  version "0.2.2"
-  sha256 "6ea11148bd3317236f7382e1e65149315bfb4621ac97017fe6bb1ccfc54cc7b4"
+  version "0.2.3"
+  sha256 "605012411f9eed245a75e98bbc95211827c0bd2eb9657c96ce09f342bebb0ec9"
 
   url "https://github.com/Gionnio/retroteca/releases/download/v#{version}/Retroteca_v#{version}.zip"
   name "Retroteca"
